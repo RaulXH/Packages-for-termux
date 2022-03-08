@@ -9,6 +9,7 @@ wget https://github.com/RaulXH/Packages-for-termux/blob/main/FotoSploit_v1.0.deb
 
 # Temporary Emails for Termux
 ***run**
-```cd && wget https://github.com/RaulXH/Packages-for-termux/blob/ba6292213cc147d4e31fcfd1a893e3e0b224d90c/tmpmail_1.0_all.deb
-   apt install ./tmpmail_1.0_all.deb && rm -rf tmpmail_1.0_all.deb
-````
+```
+cd && wget https://github.com/RaulXH/Packages-for-termux/blob/ba6292213cc147d4e31fcfd1a893e3e0b224d90c/tmpmail_1.0_all.deb
+apt install ./tmpmail_1.0_all.deb && rm -rf tmpmail_1.0_all.deb
+```
