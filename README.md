@@ -3,4 +3,4 @@
 ## List
 - **Ruby 2.7.2** *[ arm and aarch64 for android ]*
 - **Fotosploit** *[ Fixed ]*
-- **tmpmail** *[ adapted to termux ]*
+- **tmpmail** *[ adapted to termux, Email temporal ]*
